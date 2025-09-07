@@ -11,4 +11,4 @@ Built Blog application by:
 - Added Real-Time Features with websockets to showcase room-based messaging
 
 Check Wiki for Live Demo
-https://github.com/CarlosC21/CS618/wiki/Live-Demo-Links
+- https://github.com/CarlosC21/CS618/wiki/Live-Demo-Links
